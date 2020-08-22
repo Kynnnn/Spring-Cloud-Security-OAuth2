@@ -37,6 +37,8 @@ public class AuthorizationServer extends AuthorizationServerConfigurerAdapter {
     @Autowired
     private AuthenticationManager authenticationManager;
 
+
+
     /**
      * 令牌服务配置
      *
